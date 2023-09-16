@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Siddqui</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiastic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahquantumx&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahquantumx" /> </p>
-
 - 🌱 I’m currently learning **Next.js,Pytorch**
 
 - 💬 Ask me about **React,sklearn,pandas,numpy,matplotlib,TF**
