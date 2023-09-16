@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Abdullah Siddqui</h1>
-<h3 align="center">A passionate frontend developer and ML enthusiastic</h3>
-<img align="right alt='Coding' width='400' src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
-"
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
+</p>
+
+## <picture><img src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width = 100px></picture> About me
+
+<picture> <img align="right" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" width = 250px></picture>
+
+<br><br>
+
 - 🌱 I’m currently learning **Next.js,Pytorch**
 
 - 💬 Ask me about **React,sklearn,pandas,numpy,matplotlib,TF**
