@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Siddqui</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiastic</h3>
-
+<img align="right alt='Coding' width='400' src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+"
 - 🌱 I’m currently learning **Next.js,Pytorch**
 
 - 💬 Ask me about **React,sklearn,pandas,numpy,matplotlib,TF**
