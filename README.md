@@ -12,7 +12,7 @@
 
 <br><br>
 
-- 🌱 I am Abdullah Siddiqui an active learner currently pursuing my B.Tech at NIT Rourkela, majoring in Electrical Engineering. I am enthusiastic about **ML Ai ,Data Science and Web development.**
+- 🌱 I am an active learner currently pursuing my B.Tech at NIT Rourkela, majoring in Electrical Engineering. I am enthusiastic about **ML Ai ,Data Science and Web development.**
 
 - 💬 Ask me about **React,sklearn,pandas,numpy,matplotlib,TF**
 
