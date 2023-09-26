@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width = 100px></picture> About me
 
-<picture> <img align="right" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media2.giphy.com/media/VOgpnDOAddaN0zr9UE/giphy.gif?cid=da52fb6cvqkokzd4qd1l9gr9sqtnyjncq8gebn9v9etc4uwl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
 
 <br><br>
 
