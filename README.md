@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/abdullahquantumx/XO/assets/137316478/437088a4-03eb-4e5f-9dd3-7c31877c9715" width = 100px></picture> About me
 
-<picture> <img align="right" src="https://github.com/rudrabarad/Gifs/assets/137316478/d2d7c018-7878-4e33-92da-43aee437d321" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/137316478/ce03269d-7c79-4ff3-963f-58cc011994bb" width = 250px></picture>
 
 
 
