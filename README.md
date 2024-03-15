@@ -6,9 +6,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=I+am+Abdullah+Siddiqui;Welcome+to+my+GitHub+Profile!;" /></a>
 </p>
 
-## <picture><img src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width = 100px></picture> About me
+## <picture><img src = "https://github.com/abdullahquantumx/XO/assets/137316478/437088a4-03eb-4e5f-9dd3-7c31877c9715" width = 100px></picture> About me
 
-<picture> <img align="right" src="https://media2.giphy.com/media/VOgpnDOAddaN0zr9UE/giphy.gif?cid=da52fb6cvqkokzd4qd1l9gr9sqtnyjncq8gebn9v9etc4uwl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/abdullahquantumx/XO/assets/137316478/ad00ecc8-d813-467b-9d93-3287004230d1" width = 250px></picture>
 
 <br><br>
 
