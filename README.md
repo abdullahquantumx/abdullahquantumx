@@ -10,7 +10,7 @@
 
 <picture> <img align="right" src="https://github.com/rudrabarad/Gifs/assets/137316478/d2d7c018-7878-4e33-92da-43aee437d321" width = 250px></picture>
 
-<br><br>
+
 
 - 🌱 I am an active learner currently pursuing my B.Tech at NIT Rourkela, majoring in Electrical Engineering. I am enthusiastic about **ML Ai ,Data Science and Web development.**
 
