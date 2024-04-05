@@ -4,7 +4,7 @@
 ## <picture><img src = "https://github.com/abdullahquantumx/XO/assets/137316478/437088a4-03eb-4e5f-9dd3-7c31877c9715" width = 100px></picture> About me
 
 <picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/137316478/abb728e7-5e14-4947-98fe-58d364577da0" width = 250px></picture>
-🌱 I am an active learner currently pursuing my B.Tech at NIT Rourkela, majoring in Electrical Engineering. I am enthusiastic about AIML ,Data Science and Web development.<br><br>💬 Ask me about React,sklearn,pandas,numpy,matplotlib,TF<br><br>📫 How to reach me abdullahquantum369@gmail.com<br><br>⚡ Fun fact I think I am funny
+🌱 I am an active learner currently pursuing my B.Tech at NIT Rourkela, majoring in Electrical Engineering. I am Full stack Web Developer and a AIML enthusiast.<br><br>💬 Ask me about React,sklearn,pandas,numpy,matplotlib,TF<br><br>📫 How to reach me abdullahquantum369@gmail.com<br><br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
