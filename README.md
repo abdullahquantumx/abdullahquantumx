@@ -3,7 +3,7 @@
 <span href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Myself+Abdullah+Siddiqui;I+am+a+Full+Stack+Web+Developer;and+a+Machine+Learning+enthusiast;Welcome+to+my+GitHub+Profile!;" /></span>
 ## <picture><img src = "https://github.com/abdullahquantumx/XO/assets/137316478/437088a4-03eb-4e5f-9dd3-7c31877c9715" width = 100px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/137316478/abb728e7-5e14-4947-98fe-58d364577da0" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/137316478/abb728e7-5e14-4947-98fe-58d364577da0" width = 250px height= 220px></picture>
 🌱 I am an active learner currently pursuing my **B.Tech at NIT Rourkela, majoring in Electrical Engineering. I am Full stack Web Developer and a AIML enthusiast**<br><br>💬 Ask me about **Next JS, MERN Stack, Sklearn, Pandas, TensorFlow** <br><br>📫 How to reach me abdullahquantum369@gmail.com<br><br> ⚡ Fun fact **I think I am funny**
 
 
