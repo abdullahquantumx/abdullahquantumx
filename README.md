@@ -1,8 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=abdullahquantumx&icon=0&color=0)](https://visitcount.itsvg.in)
 # Hey there ! 👋: 
 <span href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Myself+Abdullah+Siddiqui;I+am+a+Full+Stack+Web+Developer;and+a+Machine+Learning+enthusiast;Welcome+to+my+GitHub+Profile!;" /></span>
-
-  ## About me
+## <picture><img src = "https://github.com/abdullahquantumx/XO/assets/137316478/437088a4-03eb-4e5f-9dd3-7c31877c9715" width = 100px></picture> About me
 🌱 I am an active learner currently pursuing my B.Tech at NIT Rourkela, majoring in Electrical Engineering. I am enthusiastic about AIML ,Data Science and Web development.<br><br>💬 Ask me about React,sklearn,pandas,numpy,matplotlib,TF<br><br>📫 How to reach me abdullahquantum369@gmail.com<br><br>⚡ Fun fact I think I am funny
 
 
